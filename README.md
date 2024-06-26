@@ -50,5 +50,4 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encon
 
 Agradecimentos especiais à Oracle e Alura pelo programa Oracle Next Education, que proporciona aprendizado prático e oportunidades para desenvolver habilidades em tecnologia.
 
-**Desenvolvido por**: [Diego Silva]
-**LinkedIn**: [[odiegosilva1](https://www.linkedin.com/in/odiegosilva1/)]
+**Desenvolvido por**: [Diego Silva]:
